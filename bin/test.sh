@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "This is test from Abdul"
+echo "This is a test line from Abdul"
